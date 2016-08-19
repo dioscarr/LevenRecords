@@ -2,67 +2,67 @@
 <items version="2" >
 
     <item
-        jar="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_4298ba548c99cc1351d1c98e8f9b4b710380d357\classes.dex" />
-    </item>
-    <item
-        jar="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_cbedd2afc528b9ca9fbddb27dc41984098f9ce03\classes.dex" />
-    </item>
-    <item
-        jar="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_b2a0fe80acca1733a5b08d6406e59c88425d8e82\classes.dex" />
-    </item>
-    <item
-        jar="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_520b40490f9b7cb2aa9ab0950b77d8f12d278689\classes.dex" />
-    </item>
-    <item
-        jar="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
-        <dex dex="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_13f4a9c9de3d583a0fb4cd0bfc3a2d171cf823d7\classes.dex" />
-    </item>
-    <item
-        jar="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_73dccb28f1268c937762fe0f39de7be6fcfae09d\classes.dex" />
-    </item>
-    <item
-        jar="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="623e2a7a4cd080f9fd3300708ab1d9d064235290">
-        <dex dex="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0bfbdc11dbe68535dc2687f1664f9d7f513dbbbd\classes.dex" />
-    </item>
-    <item
-        jar="D:\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jar="/Users/dionelrodriguez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_63d1e51ce337ac53a4fcf92c6dfbda15d2408dd3\classes.dex" />
+        <dex dex="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_cf7291428ce664da1bcaf93f9afc34430fbe34b8/classes.dex" />
     </item>
     <item
-        jar="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="dda65cdceb83c93a8c020939c20ae344a8964422">
-        <dex dex="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8431c53b8bfd34304aef64d46d32712faa03684f\classes.dex" />
+        sha1="a0364587fa7004804abbd97c5e3a0086a80ec49a">
+        <dex dex="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_efe083d68d99bfc147b7b83ae04cf725f429ba26/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_5bb9b717be6d91b899a82329568e8423ab455414/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_fc4fcb4e4f8dc2eff31126c45f8d6f27b5f59ff0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mcxiaoke.volley-library-aar-1.0.0_15af8d6d376ff058a0f5102771e5f78bd8c10422/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_00d53a392dfb0c6c251efde733ff2de5856f3185/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c4f4e17ad837e3fe44f8d713d9645a1e5a7c7778">
+        <dex dex="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f9ab7197d5a63d214770f734710700ed92ce1c22/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_fa7d3bdffe03b3e89d630768fa5c1577b1f5ef62/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_2c99ca5085f3c35cbc99a75b711e53a6c14ae141/classes.dex" />
     </item>
 
 </items>

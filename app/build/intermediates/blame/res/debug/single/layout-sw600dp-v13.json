@@ -1,6 +1,6 @@
 [
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout-sw600dp/design_layout_snackbar.xml"
     }
 ]
