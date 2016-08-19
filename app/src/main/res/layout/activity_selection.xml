@@ -8,7 +8,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="info.androidhive.loginandregistration.activity.SelectionActivity"
-    android:background="@color/bg_register">
+    android:background="@drawable/bkk2">
 
     <TextView
         android:layout_width="wrap_content"
@@ -16,73 +16,54 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Booking Options"
         android:id="@+id/textView"
-        android:layout_marginTop="24dp"
         android:textColor="#ffffff"
-        android:textSize="30sp"
+        android:textSize="26dp"
         android:textAlignment="center"
+        android:fontFamily="roboto"
+        android:capitalize="characters"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="10dp" />
+
+    <CalendarView
+        android:layout_width="fill_parent"
+        android:layout_height="340dp"
+        android:id="@+id/calendarView"
+        android:background="#f2f2f2"
+        android:weekNumberColor="#f5f5f5"
+        android:paddingTop="20dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
     <Button
         android:id="@+id/button4"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="92dp"
         android:background="@null"
         android:text="Sort by Available day"
         android:textAllCaps="false"
         android:textColor="@color/white"
-        android:textSize="15dp"
-        android:layout_below="@+id/textView"
+        android:textSize="16dp"
+        android:onClick="popupCalendar"
+        android:fontFamily="roboto-thin"
+        android:layout_below="@+id/calendarView"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:onClick="popupCalendar" />
+        android:layout_marginTop="31dp" />
 
     <Button
         android:id="@+id/button"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="57dp"
         android:background="@null"
         android:text="Sort by available time"
         android:textAllCaps="false"
         android:textColor="@color/white"
-        android:textSize="15dp"
+        android:textSize="16dp"
+        android:fontFamily="roboto"
         android:layout_below="@+id/button4"
-        android:layout_centerHorizontal="true" />
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="56dp"
-        android:background="@null"
-        android:text="View all availavility"
-        android:textAllCaps="false"
-        android:textColor="@color/white"
-        android:textSize="15dp"
-        android:layout_below="@+id/button"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="You have 1 Appointment"
-        android:id="@+id/textView2"
-        android:layout_marginTop="18dp"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:textColor="#FFFFFF" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="on monday"
-        android:id="@+id/textView3"
-        android:layout_below="@+id/textView2"
-        android:layout_centerHorizontal="true"
-        android:textColor="#FFFFFF" />
 </RelativeLayout>

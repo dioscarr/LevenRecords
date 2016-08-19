@@ -2,16 +2,16 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@color/bg_register"
+    android:background="@drawable/bkk2"
     android:gravity="center"
     android:orientation="vertical"
     android:padding="10dp" >
 
     <ImageView
-        android:layout_width="264dp"
+        android:layout_width="200dp"
         android:layout_height="185dp"
         android:id="@+id/imageView2"
-        android:src="@drawable/levenrecrdslogo" />
+        android:src="@drawable/logo" />
 
     <LinearLayout
         android:layout_width="fill_parent"
@@ -32,7 +32,9 @@
             android:padding="10dp"
             android:singleLine="true"
             android:textColor="@color/input_login"
-            android:textColorHint="@color/input_login_hint" />
+            android:textColorHint="@color/input_login_hint"
+            android:gravity="center_horizontal"
+            android:textSize="15dp" />
 
         <EditText
             android:id="@+id/password"
@@ -45,7 +47,11 @@
             android:padding="10dp"
             android:singleLine="true"
             android:textColor="@color/input_login"
-            android:textColorHint="@color/input_login_hint" />
+            android:textColorHint="@color/input_login_hint"
+            android:gravity="center_horizontal"
+            android:theme="@style/AppTheme"
+            android:typeface="sans"
+            android:textSize="15dp" />
 
         <!-- Login Button -->
 
@@ -54,12 +60,14 @@
             android:layout_height="wrap_content"
             android:text="Remember me"
             android:id="@+id/checkBox"
-            android:textColor="#FFFFFF"
+            android:textColor="#f2f2f2"
             android:checked="false"
             android:textColorHint="#FFFFFF"
             android:textColorLink="#FFFFFF"
             android:textColorHighlight="#FFFFFF"
-            android:singleLine="false" />
+            android:singleLine="false"
+            android:theme="@style/AppTheme"
+            android:textStyle="italic" />
 
         <Button
             android:id="@+id/btnLogin"
@@ -81,7 +89,8 @@
             android:text="@string/btn_link_to_register"
             android:textAllCaps="false"
             android:textColor="@color/white"
-            android:textSize="15dp" />
+            android:textSize="13dp"
+            android:textStyle="italic" />
 
     </LinearLayout>
 

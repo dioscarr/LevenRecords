@@ -24,14 +24,14 @@
     <color name="background_material_light">@color/material_grey_50</color>
     <color name="bg_login">#26ae90</color>
     <color name="bg_main">#428bca</color>
-    <color name="bg_register">#2e3237</color>
+    <color name="bg_register">#141414</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
     <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
     <color name="bright_foreground_material_dark">@android:color/white</color>
     <color name="bright_foreground_material_light">@android:color/black</color>
-    <color name="btn_login">#26ae90</color>
+    <color name="btn_login">#228d90</color>
     <color name="btn_login_bg">#eceef1</color>
     <color name="btn_logut_bg">#ff6861</color>
     <color name="button_material_dark">#ff5a595b</color>
@@ -281,7 +281,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">Android Login and Registration</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="btn_link_to_login">Already registered? Log me in.</string>
     <string name="btn_link_to_register">Not a member? Sign up now.</string>
     <string name="btn_login">LOGIN</string>
     <string name="btn_logout">LOGOUT</string>
@@ -291,6 +291,7 @@
     <string name="hint_name">Fullname</string>
     <string name="hint_password">Password</string>
     <string name="name">Fullname</string>
+    <string name="select_the_session_date">Select the session date</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_activity_alendar">alendarActivity</string>
     <string name="welcome">Welcome</string>

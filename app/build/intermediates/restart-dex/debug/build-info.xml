@@ -4,30 +4,59 @@
     api-level="23"
     density="xxxhdpi"
     format="7"
-    timestamp="1266198444046701"
+    timestamp="1275954941468170"
     token="842727775664684627" >
 
     <task
         name="javac"
-        duration="1801" />
+        duration="933" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="465" />
+        duration="99" />
     <task
         name="verifier"
-        duration="23" />
+        duration="12" />
 
     <artifact
-        location="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
 
-    <build timestamp="1266198444046701" >
+    <build timestamp="1274993358041746" >
         <artifact
             location="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="1275954941468170" >
+        <artifact
+            location="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
