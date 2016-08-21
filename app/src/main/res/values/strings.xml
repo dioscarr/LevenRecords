@@ -14,5 +14,8 @@
     <string name="name">Fullname</string>
     <string name="title_activity_alendar">alendarActivity</string>
     <string name="select_the_session_date">Select the session date</string>
+    <string name="sort_by_available_day">Sort by Available day</string>
+    <string name="title_activity_display_message">Book a Session</string>
+    <string name="book_a_session">Book a session</string>
 
 </resources>

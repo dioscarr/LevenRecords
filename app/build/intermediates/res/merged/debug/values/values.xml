@@ -281,6 +281,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">Android Login and Registration</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="book_a_session">Book a session</string>
     <string name="btn_link_to_login">Already registered? Log me in.</string>
     <string name="btn_link_to_register">Not a member? Sign up now.</string>
     <string name="btn_login">LOGIN</string>
@@ -292,8 +293,10 @@
     <string name="hint_password">Password</string>
     <string name="name">Fullname</string>
     <string name="select_the_session_date">Select the session date</string>
+    <string name="sort_by_available_day">Sort by Available day</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_activity_alendar">alendarActivity</string>
+    <string name="title_activity_display_message">Book a Session</string>
     <string name="welcome">Welcome</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

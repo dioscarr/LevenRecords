@@ -43,6 +43,17 @@
             android:launchMode="singleTop" />
         <activity android:name="info.androidhive.loginandregistration.activity.SelectionActivity" />
         <activity android:name="info.androidhive.loginandregistration.Booking" />
+        <activity
+            android:name="info.androidhive.loginandregistration.activity.calendar"
+            android:label="@string/title_activity_display_message"
+            android:parentActivityName="info.androidhive.loginandregistration.activity.SelectionActivity" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.SelectionActivity" />
+        </activity>
     </application>
 
 </manifest>
