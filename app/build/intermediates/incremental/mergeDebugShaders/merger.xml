@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\debug\shaders"/></dataSet></merger>

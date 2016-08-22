@@ -10,10 +10,9 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
 
-    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-
+    <!-- <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> -->
+    <!-- <android:uses-permission android:name="android.permission.READ_PHONE_STATE" /> -->
+    <!-- <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> -->
     <application
         android:name="info.androidhive.loginandregistration.app.AppController"
         android:allowBackup="true"
@@ -51,6 +50,7 @@
                 android:value=".activity.SelectionActivity" />
         </activity>
         <activity android:name="info.androidhive.loginandregistration.activity.mysessions" />
+        <activity android:name="info.androidhive.loginandregistration.activity.dashboard" />
         <activity
             android:name="info.androidhive.loginandregistration.activity.MainActivity"
             android:label="@string/title_activity_main"

@@ -15,6 +15,8 @@ public class SelectionActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_selection);
         Button btnBookaSession1 = (Button) findViewById(R.id.btnBookaSession);
+        View Add = (View) findViewById(R.id.viewAddButton);
+        Add.isInEditMode();
         //Go to Calendar
         btnBookaSession1.setOnClickListener(new View.OnClickListener()
         {

@@ -52,6 +52,11 @@
                 android:value=".activity.SelectionActivity" />
         </activity>
         <activity android:name="info.androidhive.loginandregistration.activity.mysessions" />
+        <activity android:name="info.androidhive.loginandregistration.activity.dashboard" />
+        <activity
+            android:name="info.androidhive.loginandregistration.activity.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
