@@ -65,10 +65,10 @@ public class LoginActivity extends Activity {
 
         // Check if user is already logged in or not
         if (session.isLoggedIn()) {
-            // User is already logged in. Take him to main activity
-            Intent intent = new Intent(LoginActivity.this, SelectionActivity.class);
-            startActivity(intent);
-            finish();
+//            // User is already logged in. Take him to main activity
+//            Intent intent = new Intent(LoginActivity.this, SelectionActivity.class);
+//            startActivity(intent);
+//            finish();
         }
 
         // Login button Click Event

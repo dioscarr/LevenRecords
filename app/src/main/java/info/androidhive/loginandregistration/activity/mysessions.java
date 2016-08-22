@@ -37,7 +37,7 @@ BuckyDB dbHandler;
             public void onItemClick(AdapterView<?> parent, View view, int position, long id)
             {
                 String SingleBooked = valueOf(parent.getItemAtPosition(position));
-                Toast.makeText(mysessions.this,"You have a session on: "+ SingleBooked, Toast.LENGTH_LONG).show();
+                Toast.makeText(mysessions.this,"You have a session on: "+ SingleBooked, Toast.LENGTH_SHORT).show();
 
             }
 
