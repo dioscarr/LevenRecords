@@ -3,7 +3,8 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
-    android:background="#2C2C2C">
+    android:background="#2c2c2c"
+    android:contextClickable="false">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -19,11 +20,11 @@
             android:id="@+id/imageView1"
             android:layout_gravity="center_horizontal"
             android:layout_weight="0.79"
-            android:textStyle="bold"
             android:textColor="#f2f2f2"
             android:gravity="center_vertical|center_horizontal"
-            android:textSize="32sp"
-            android:paddingTop="60dp" />
+            android:textSize="52dp"
+            android:paddingTop="60dp"
+            android:typeface="normal" />
 
 
         <de.hdodenhof.circleimageview.CircleImageView
@@ -51,7 +52,8 @@
             android:layout_marginBottom="10dp"
             android:textSize="12sp"
             android:theme="@style/Widget.AppCompat.Button.Borderless"
-            android:background="#f2f2f2" />
+            android:background="#f3f3f3"
+            android:backgroundTintMode="multiply" />
 
         <android.support.design.widget.FloatingActionButton
             android:layout_width="wrap_content"
