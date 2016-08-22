@@ -10,7 +10,6 @@ import android.widget.Button;
 import info.androidhive.loginandregistration.R;
 
 public class SelectionActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,18 +27,12 @@ public class SelectionActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
-
-
-
-
     }
-
-    public void popupCalendar(View view){
+    public void viewBookedSessionsonClick(View view){
 
         // Launch main activity
         Intent intent = new Intent(SelectionActivity.this,
-                MainActivity.class);
+                mysessions.class);
         startActivity(intent);
     }
 }

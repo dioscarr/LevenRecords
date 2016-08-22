@@ -56,6 +56,10 @@
         "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mysessions.xml",
+        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_mysessions.xml"
+    },
+    {
         "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calendar.xml",
         "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_calendar.xml"
     },
@@ -108,20 +112,16 @@
         "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
-    },
-    {
         "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_booking.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_booking.xml"
+        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
@@ -140,12 +140,12 @@
         "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
         "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -158,6 +158,10 @@
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mysessions_row.xml",
+        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_mysessions_row.xml"
     },
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
@@ -182,10 +186,6 @@
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selection.xml",
         "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_selection.xml"
-    },
-    {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",

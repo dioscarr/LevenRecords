@@ -17,5 +17,6 @@
     <string name="sort_by_available_day">Sort by Available day</string>
     <string name="title_activity_display_message">Book a Session</string>
     <string name="book_a_session">Book a session</string>
+    <string name="edit">Edit</string>
 
 </resources>
