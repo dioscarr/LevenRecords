@@ -4,32 +4,25 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="37641774469709"
-    token="8610156536055378374"
-    verifier="R_CLASS_CHANGE" >
+    timestamp="38693446601918"
+    token="8610156536055378374" >
 
     <task
         name="javac"
-        duration="511" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="59" />
+        duration="0" />
     <task
         name="verifier"
-        duration="12" />
+        duration="0" />
 
     <artifact
         location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\res\resources-debug.ap_"
         type="RESOURCES" />
-    <artifact
-        location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-        type="DEX" />
-    <artifact
-        location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-        type="DEX" />
 
     <build timestamp="36909191097132" >
         <artifact
@@ -40,14 +33,16 @@
         timestamp="37641774469709"
         verifier="R_CLASS_CHANGE" >
         <artifact
-            location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
             location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
             type="DEX" />
         <artifact
             location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
             type="DEX" />
+    </build>
+    <build timestamp="38693446601918" >
+        <artifact
+            location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
