@@ -4,14 +4,16 @@
     android:layout_height="fill_parent"
     android:background="#2c2c2c"
     android:gravity="center"
+    android:orientation="vertical"
     android:padding="10dp"
-    android:orientation="vertical">
+    android:weightSum="1">
 
     <ImageView
-        android:layout_width="200dp"
+        android:layout_width="217dp"
         android:layout_height="185dp"
         android:id="@+id/imageView2"
-        android:src="@drawable/logo" />
+        android:src="@drawable/logo"
+        android:layout_weight="0.15" />
 
     <LinearLayout
         android:layout_width="fill_parent"

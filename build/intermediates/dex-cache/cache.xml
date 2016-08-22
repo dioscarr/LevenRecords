@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/dionelrodriguez/AndroidStudioProjects/CBooking/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.1.0_8877858423524ec21413aa6daeffe9289b3ccd6c.jar" />
+    </item>
+
+</items>
