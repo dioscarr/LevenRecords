@@ -2,13 +2,5 @@
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Users\\dionelrodriguez\\AndroidStudioProjects\\CBooking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
-        "source": "D:\\Users\\dionelrodriguez\\AndroidStudioProjects\\CBooking\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Users\\dionelrodriguez\\AndroidStudioProjects\\CBooking\\D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
-        "source": "D:\\Users\\dionelrodriguez\\AndroidStudioProjects\\CBooking\\D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]
