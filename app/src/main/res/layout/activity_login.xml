@@ -55,6 +55,17 @@
 
         <!-- Login Button -->
 
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:background="@color/btn_login_bg"
+            android:text="@string/btn_login"
+            android:textColor="@color/btn_login" />
+
+        <!-- Link to Login Screen -->
+
         <CheckBox
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -67,18 +78,8 @@
             android:textColorHighlight="#FFFFFF"
             android:singleLine="false"
             android:theme="@style/AppTheme"
-            android:textStyle="italic" />
-
-        <Button
-            android:id="@+id/btnLogin"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="20dip"
-            android:background="@color/btn_login_bg"
-            android:text="@string/btn_login"
-            android:textColor="@color/btn_login" />
-
-        <!-- Link to Login Screen -->
+            android:textStyle="italic"
+            android:layout_gravity="right" />
 
         <Button
             android:id="@+id/btnLinkToRegisterScreen"
