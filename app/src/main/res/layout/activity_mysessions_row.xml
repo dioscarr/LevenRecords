@@ -9,35 +9,32 @@
     android:paddingBottom="10dp"
     android:transitionGroup="true"
     android:backgroundTintMode="multiply"
-    style="@android:style/Widget.Material.Light.ListView">
+    style="@android:style/Widget.Material.Light.ListView"
+    android:background="#111111">
 
     <ImageView
         android:layout_width="80dp"
         android:layout_height="40dp"
         android:id="@+id/imgbookedsessionicon"
-        android:src="@drawable/ic_perm_contact_calendar_black_48dp"
-        android:layout_marginLeft="10dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginStart="10dp"
-        android:layout_alignParentBottom="true"
+        android:src="@android:drawable/ic_menu_today"
         android:alpha="30"
-        android:layout_alignParentTop="true" />
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="140dp"
+        android:layout_height="65dp"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Booked for"
         android:id="@+id/textView3"
-        android:paddingLeft="10sp"
-        android:paddingTop="10dp"
-        android:textSize="20dp"
+        android:textSize="16sp"
         android:layout_alignParentTop="true"
         android:layout_toRightOf="@+id/imgbookedsessionicon"
-        android:layout_toEndOf="@+id/imgbookedsessionicon"
         android:textColor="#c6c6c6"
-        android:fontFamily="ROBOTO-REGULAR" />
+        android:fontFamily="ROBOTO-REGULAR"
+        android:padding="20dp"
+        android:gravity="center_vertical|center_horizontal" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -45,53 +42,30 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Large Text"
         android:id="@+id/lblBookedDate"
-        android:paddingLeft="10dp"
-        android:paddingTop="10dp"
-        android:textSize="20dp"
+        android:textSize="16sp"
         android:layout_toRightOf="@+id/textView3"
-        android:layout_toEndOf="@+id/textView3"
         android:layout_alignTop="@+id/textView3"
-        android:layout_alignBottom="@+id/textView3"
         android:textColor="#f5f5f5"
-        android:fontFeatureSettings="ROBOTO-REGULAR" />
-
-    <ImageView
-        android:layout_width="40dp"
-        android:layout_height="40dp"
-        android:id="@+id/EditBookedSession"
-        android:src="@drawable/ic_lead_pencil_white_48dp"
-        android:paddingRight="16dp"
-        android:paddingBottom="10dp"
-        android:paddingTop="30dp"
-        android:layout_alignParentBottom="true"
+        android:fontFeatureSettings="ROBOTO-REGULAR"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:layout_toRightOf="@+id/lblBookedDate"
-        android:layout_toEndOf="@+id/lblBookedDate"
-        android:layout_alignParentTop="true"
-        android:paddingLeft="50dp" />
+        android:layout_alignParentBottom="true"
+        android:padding="30dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:textStyle="normal" />
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="140dp"
+        android:layout_height="65dp"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="12:30 P.M"
-        android:paddingLeft="5dp"
-        android:paddingTop="0dp"
         android:id="@+id/lblBookedTime"
-        android:textSize="20dp"
+        android:textSize="14sp"
         android:textColor="#e7e7e7"
         android:fontFeatureSettings="ROBOTO-REGULAR"
-        android:layout_centerVertical="true"
-        android:layout_alignRight="@+id/textView3"
-        android:layout_alignEnd="@+id/textView3" />
-
-    <LinearLayout
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="30dp"
-        android:background="#FFFFFF"
-        android:layout_alignParentEnd="false"
-        android:layout_marginTop="100dp"></LinearLayout>
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3"
+        android:gravity="center_vertical|center_horizontal" />
 
 </RelativeLayout>
