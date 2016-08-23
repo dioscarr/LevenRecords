@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
-        "source": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_rawertemcon.png",
+        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_rawertemcon.png"
     },
     {
-        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_person.png",
-        "source": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/src/main/res/mipmap-xxhdpi/ic_person.png"
+        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_password.png",
+        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_password_settings.png",
+        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_password_settings.png"
     }
 ]
