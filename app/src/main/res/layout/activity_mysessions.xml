@@ -1,36 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="info.androidhive.loginandregistration.activity.mysessions"
-    android:background="#2c2c2c"
-    android:backgroundTintMode="screen">
+    android:background="#e2e2e2"
+    android:backgroundTintMode="screen"
+    android:clipToPadding="false"
+    android:focusable="true">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="10dp">
 
-    <ListView
+        <include android:id="@+id/app_bar" layout="@layout/app_bar"/>
+    </LinearLayout>
+
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/listViewSessions"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginTop="50dp"
-        android:background="#e2e2e2" />
+        android:layout_marginTop="60dp"
+        android:clipToPadding="false">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Booked Sessions"
-        android:id="@+id/textView4"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:gravity="center"
-        android:textSize="22sp"
-        android:padding="2dp"
-        android:textColor="#f2f2f2"
-        android:layout_marginTop="15dp" />
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/listViewSessions"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="#e2e2e2"
+            android:divider="@null"
+            android:dividerHeight="0dp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/goToCalendarIdFrommysessions"
+            android:layout_marginRight="28dp"
+            android:layout_marginEnd="28dp"
+            android:layout_marginBottom="15dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:longClickable="true"
+            android:layout_margin="14dp"
+            app:elevation="15dp"
+            android:src="@drawable/ic_calendar_check_white_48dp"
+            android:clickable="true"
+            android:background="#ffffff"
+            android:cropToPadding="false" />
+
+    </RelativeLayout>
 </RelativeLayout>

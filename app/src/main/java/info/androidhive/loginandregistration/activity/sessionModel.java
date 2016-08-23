@@ -29,7 +29,7 @@ public class sessionModel {
     }
 
     public void set_BookedDate(String BookedDate) {
-        this._BookedDate = BookedDate;
+            this._BookedDate = BookedDate;
     }
 
     public String get_DateCreated() {

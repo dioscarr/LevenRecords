@@ -50,11 +50,19 @@
             >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".activity.SelectionActivity" />
+                android:value=".activity.dashboard" />
         </activity>
-        <activity android:name=".activity.mysessions" />
-        <activity android:name=".activity.dashboard" />
-        <activity android:name=".activity.settings"></activity>
+        <activity android:name=".activity.mysessions" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.dashboard" />
+        </activity>
+        <activity android:name=".activity.dashboard"  android:launchMode="singleTop" />/>
+        <activity android:name=".activity.settings">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.dashboard" />
+        </activity>
     </application>
 
 </manifest>

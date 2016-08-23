@@ -10,6 +10,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
 import android.widget.Toast;
 import info.androidhive.loginandregistration.helper.SQLiteHandler;
 import info.androidhive.loginandregistration.helper.SessionManager;
@@ -19,20 +21,40 @@ import info.androidhive.loginandregistration.R;
 
 public class dashboard extends AppCompatActivity {
 
-    private Toolbar toolbar;
-    private SQLiteHandler db;
-    private SessionManager session;
+    private Toolbar toolbar; //Toolbar
+    private SQLiteHandler db; //database
+    private SessionManager session;//database
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.dashboard);
-        toolbar = (Toolbar) findViewById(R.id.app_bar);
-        setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("DashBoard");
-        getSupportActionBar().setSubtitle("SubTitle");
-        getSupportActionBar().setIcon(R.drawable.ic_action_name);
-
+        toolbar = (Toolbar) findViewById(R.id.app_bar); //Toolbar
+        setSupportActionBar(toolbar); //Toolbar
+        getSupportActionBar().setTitle("DashBoard"); //Toolbar
+        getSupportActionBar().setSubtitle("SubTitle"); //Toolbar
+        getSupportActionBar().setIcon(R.drawable.ic_action_name);//Toolbar
+        View gotocalendar = (View)findViewById(R.id.goToCalendarId);
+        gotocalendar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // Launching the calendar activity
+                Intent intent = new Intent(dashboard.this, calendar.class);
+                startActivity(intent);
+               // finish();
+            }
+        });
+        Button goToSessionsBooked = (Button) findViewById(R.id.btnGoToSeesionsBooked);
+        goToSessionsBooked.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v) {
+                // Launching the login settings
+                Intent intent = new Intent(dashboard.this, mysessions.class);
+                startActivity(intent);
+              //  finish();
+            }
+        });
         // SqLite database handler
         db = new SQLiteHandler(getApplicationContext());
 
@@ -40,13 +62,23 @@ public class dashboard extends AppCompatActivity {
         session = new SessionManager(getApplicationContext());
 
     }
-
+    /***
+     * This method is inherited from the appCompatActivity class
+     * and it initialize the menu on the toolbar
+     * @param menu
+     * @return
+     */
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
        getMenuInflater().inflate(R.menu.menu, menu);
         return super.onCreateOptionsMenu(menu);
     }
-
+    /**
+     * this is a method from the inherited class that get
+     * the selected item id from the tool bar menu
+     * @param item
+     * @return
+     */
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
 
@@ -56,7 +88,7 @@ public class dashboard extends AppCompatActivity {
                 // Launching the login settings
                 Intent intent = new Intent(dashboard.this, settings.class);
                 startActivity(intent);
-                finish();
+               // finish();
                 break;
             case R.id.menu_2:
                 logoutUser();
@@ -65,8 +97,6 @@ public class dashboard extends AppCompatActivity {
         }
         return super.onContextItemSelected(item);
     }
-
-
 
     /**
      * Logging out the user. Will set isLoggedIn flag to false in shared

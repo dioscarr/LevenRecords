@@ -26,6 +26,9 @@ public class settings extends AppCompatActivity {
         getSupportActionBar().setTitle("Settings");
         getSupportActionBar().setSubtitle("SubTitle");
         getSupportActionBar().setIcon(R.drawable.ic_action_name);
+        getSupportActionBar().setHomeButtonEnabled(true);
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         db = new SQLiteHandler(getApplicationContext());
 

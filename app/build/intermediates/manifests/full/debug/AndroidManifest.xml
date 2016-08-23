@@ -10,11 +10,10 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
 
-    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-
     <!-- <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> -->
+    <!-- <android:uses-permission android:name="android.permission.READ_PHONE_STATE" /> -->
+    <!-- <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> -->
+    <!-- &lt;!&ndash; <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> &ndash;&gt; -->
     <!-- <android:uses-permission android:name="android.permission.READ_PHONE_STATE" /> -->
     <!-- <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> -->
     <application
@@ -51,11 +50,22 @@
             >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".activity.SelectionActivity" />
+                android:value=".activity.dashboard" />
         </activity>
-        <activity android:name="info.androidhive.loginandregistration.activity.mysessions" />
-        <activity android:name="info.androidhive.loginandregistration.activity.dashboard" />
-        <activity android:name="info.androidhive.loginandregistration.activity.settings" />
+        <activity android:name="info.androidhive.loginandregistration.activity.mysessions" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.dashboard" />
+        </activity>
+        <activity
+            android:name="info.androidhive.loginandregistration.activity.dashboard"
+            android:launchMode="singleTop" />
+/>
+        <activity android:name="info.androidhive.loginandregistration.activity.settings" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.dashboard" />
+        </activity>
     </application>
 
 </manifest>

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:2:1-60:12
+ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:2:1-68:12
 	package
 		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:3:5-52
 		INJECTED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
@@ -41,20 +41,8 @@ uses-permission#android.permission.INTERNET
 ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:11:22-64
-android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:13:5-89
-	android:name
-		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:13:30-86
-android:uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:14:5-83
-	android:name
-		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:14:30-80
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:15:5-88
-	android:name
-		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:15:30-85
 application
-ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:19:5-58:19
+ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:19:5-66:19
 MERGED from [com.prolificinteractive:material-calendarview:1.1.0] D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.prolificinteractive\material-calendarview\1.1.0\AndroidManifest.xml:12:5-20
 MERGED from [com.android.support:support-v4:23.1.1] D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.1.1] D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
@@ -121,20 +109,22 @@ ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\ma
 	android:name
 		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:45:13-46
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:51:13-53:63
+ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:51:13-53:55
 	android:value
-		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:53:17-60
+		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:53:17-52
 	android:name
 		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:52:17-63
 activity#info.androidhive.loginandregistration.activity.mysessions
-ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:55:9-57
+ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:55:9-59:20
 	android:name
 		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:55:19-54
 activity#info.androidhive.loginandregistration.activity.dashboard
-ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:56:9-56
+ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:60:9-88
+	android:launchMode
+		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:60:55-85
 	android:name
-		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:56:19-53
+		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:60:19-53
 activity#info.androidhive.loginandregistration.activity.settings
-ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:57:9-64
+ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:61:9-65:20
 	android:name
-		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:57:19-52
+		ADDED from D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:61:19-52
