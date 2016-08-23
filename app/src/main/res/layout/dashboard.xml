@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="16dp"
-    android:background="#010e12"
+    android:background="#2c2c2c"
     android:contextClickable="false">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include android:id="@+id/app_bar" layout="@layout/app_bar"/>
+    </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:background="#010e12">
+        android:background="#2C2C2C"
+        android:layout_marginTop="60dp">
 
-        <!--<include android:id="@+id/app_bar" layout="@layout/app_bar"/>-->
 
 
 
@@ -24,7 +33,7 @@
             android:id="@+id/imageView1"
             android:layout_gravity="center_horizontal"
             android:layout_weight="0.79"
-            android:textColor="#fff"
+            android:textColor="#f2f2f2"
             android:gravity="center_vertical|center_horizontal"
             android:textSize="52dp"
             android:typeface="normal"

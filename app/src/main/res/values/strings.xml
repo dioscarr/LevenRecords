@@ -19,5 +19,7 @@
     <string name="book_a_session">Book a session</string>
     <string name="edit">Edit</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="Settings">Settings</string>
+    <string name="Logout">Logout</string>
 
 </resources>

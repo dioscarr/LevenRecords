@@ -13,7 +13,9 @@
     <!--<android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />-->
     <!--<android:uses-permission android:name="android.permission.READ_PHONE_STATE" />-->
     <!--<android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />-->
-
+    <!--&lt;!&ndash; <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> &ndash;&gt;-->
+    <!-- <android:uses-permission android:name="android.permission.READ_PHONE_STATE" /> -->
+    <!-- <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> -->
     <application
         android:name=".app.AppController"
         android:allowBackup="true"
@@ -52,10 +54,7 @@
         </activity>
         <activity android:name=".activity.mysessions" />
         <activity android:name=".activity.dashboard" />
-        <activity
-            android:name=".activity.MainActivity"
-            android:label="@string/title_activity_main"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".activity.settings"></activity>
     </application>
 
 </manifest>
