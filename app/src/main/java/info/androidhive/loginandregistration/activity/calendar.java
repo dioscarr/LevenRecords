@@ -4,8 +4,10 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.CalendarView;
 import android.widget.Toast;
 
@@ -36,11 +38,18 @@ public class calendar extends AppCompatActivity
         db = new BuckyDB(this,null,null,1);
         toolbar = (Toolbar) findViewById(R.id.app_bar); //Toolbar
         setSupportActionBar(toolbar); //Toolbar
+        LayoutInflater mInflater = LayoutInflater.from(this);
+        View mCustomView = mInflater.inflate(R.layout.toolbaricon, null);
+        getSupportActionBar().setCustomView(mCustomView);
+        getSupportActionBar().setDisplayShowCustomEnabled(true);
         getSupportActionBar().setTitle("Book a session"); //Toolbar
         getSupportActionBar().setSubtitle("SubTitle"); //Toolbar
-        getSupportActionBar().setIcon(R.drawable.ic_action_name);//Toolbar
+        //getSupportActionBar().setIcon(R.drawable.ic_action_name);//Toolbar
         getSupportActionBar().setHomeButtonEnabled(true);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
+
+
 
         CalendarView calendarView = (CalendarView) findViewById(R.id.calendarviewBookaSession);
         calendarView.setOnDateChangeListener(new CalendarView.OnDateChangeListener()

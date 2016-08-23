@@ -13,7 +13,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <include android:id="@+id/app_bar" layout="@layout/app_bar"/>
+        <include android:id="@+id/app_bar" layout="@layout/app_bar"
+            android:layout_width="match_parent"
+            android:layout_height="60dp" />
     </LinearLayout>
 
     <LinearLayout
@@ -22,6 +24,10 @@
         android:orientation="vertical"
         android:background="#2C2C2C"
         android:layout_marginTop="60dp">
+
+        <include android:id="@+id/app_drawer" layout="@layout/drawerlayout"
+            android:layout_width="match_parent"
+            android:layout_height="60dp" />
 
 
 
