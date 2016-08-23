@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
@@ -16,12 +16,12 @@
         "source": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
-    },
-    {
         "merged": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
     },
     {
         "merged": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",

@@ -1,23 +1,10 @@
 [
     {
-<<<<<<< Updated upstream
-        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
-        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_password.png",
-        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-mdpi\\ic_password.png"
-    },
-    {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_password_settings.png",
-        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-mdpi\\ic_password_settings.png"
-=======
         "merged": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_person.png",
         "source": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/src/main/res/mipmap-mdpi/ic_person.png"
     },
     {
         "merged": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
         "source": "/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/src/main/res/mipmap-mdpi/ic_launcher.png"
->>>>>>> Stashed changes
     }
 ]

@@ -566,17 +566,10 @@ public final class R {
 		public static final int abc_textfield_search_material = 0x7f020044;
 		public static final int design_fab_background = 0x7f020048;
 		public static final int design_snackbar_background = 0x7f020049;
-<<<<<<< Updated upstream
-		public static final int notification_template_icon_bg = 0x7f020057;
+		public static final int notification_template_icon_bg = 0x7f020062;
 	}
 	public static final class id {
-		public static final int action0 = 0x7f0c009e;
-=======
-		public static final int notification_template_icon_bg = 0x7f020060;
-	}
-	public static final class id {
-		public static final int action0 = 0x7f0c00b3;
->>>>>>> Stashed changes
+		public static final int action0 = 0x7f0c00b4;
 		public static final int action_bar = 0x7f0c006a;
 		public static final int action_bar_activity_content = 0x7f0c0000;
 		public static final int action_bar_container = 0x7f0c0069;
@@ -585,11 +578,7 @@ public final class R {
 		public static final int action_bar_subtitle = 0x7f0c004b;
 		public static final int action_bar_title = 0x7f0c004a;
 		public static final int action_context_bar = 0x7f0c006b;
-<<<<<<< Updated upstream
-		public static final int action_divider = 0x7f0c00a2;
-=======
-		public static final int action_divider = 0x7f0c00b7;
->>>>>>> Stashed changes
+		public static final int action_divider = 0x7f0c00b8;
 		public static final int action_menu_divider = 0x7f0c0002;
 		public static final int action_menu_presenter = 0x7f0c0003;
 		public static final int action_mode_bar = 0x7f0c0067;
@@ -601,20 +590,12 @@ public final class R {
 		public static final int beginning = 0x7f0c0031;
 		public static final int bottom = 0x7f0c001d;
 		public static final int buttonPanel = 0x7f0c0054;
-<<<<<<< Updated upstream
-		public static final int cancel_action = 0x7f0c009f;
-=======
-		public static final int cancel_action = 0x7f0c00b4;
->>>>>>> Stashed changes
+		public static final int cancel_action = 0x7f0c00b5;
 		public static final int center = 0x7f0c001e;
 		public static final int center_horizontal = 0x7f0c001f;
 		public static final int center_vertical = 0x7f0c0020;
 		public static final int checkbox = 0x7f0c0062;
-<<<<<<< Updated upstream
-		public static final int chronometer = 0x7f0c00a5;
-=======
-		public static final int chronometer = 0x7f0c00ba;
->>>>>>> Stashed changes
+		public static final int chronometer = 0x7f0c00bb;
 		public static final int clip_horizontal = 0x7f0c002c;
 		public static final int clip_vertical = 0x7f0c002d;
 		public static final int collapseActionView = 0x7f0c0040;
@@ -623,16 +604,6 @@ public final class R {
 		public static final int customPanel = 0x7f0c005f;
 		public static final int decor_content_parent = 0x7f0c0068;
 		public static final int default_activity_button = 0x7f0c0050;
-<<<<<<< Updated upstream
-		public static final int design_menu_item_action_area = 0x7f0c009c;
-		public static final int design_menu_item_action_area_stub = 0x7f0c009b;
-		public static final int design_menu_item_text = 0x7f0c009a;
-		public static final int design_navigation_view = 0x7f0c0099;
-		public static final int disableHome = 0x7f0c000f;
-		public static final int edit_query = 0x7f0c006c;
-		public static final int end = 0x7f0c0021;
-		public static final int end_padder = 0x7f0c00aa;
-=======
 		public static final int design_menu_item_action_area = 0x7f0c00b2;
 		public static final int design_menu_item_action_area_stub = 0x7f0c00b1;
 		public static final int design_menu_item_text = 0x7f0c00b0;
@@ -640,8 +611,7 @@ public final class R {
 		public static final int disableHome = 0x7f0c000f;
 		public static final int edit_query = 0x7f0c006c;
 		public static final int end = 0x7f0c0021;
-		public static final int end_padder = 0x7f0c00bf;
->>>>>>> Stashed changes
+		public static final int end_padder = 0x7f0c00c0;
 		public static final int enterAlways = 0x7f0c0016;
 		public static final int enterAlwaysCollapsed = 0x7f0c0017;
 		public static final int exitUntilCollapsed = 0x7f0c0018;
@@ -656,33 +626,18 @@ public final class R {
 		public static final int icon = 0x7f0c0052;
 		public static final int ifRoom = 0x7f0c0041;
 		public static final int image = 0x7f0c004f;
-<<<<<<< Updated upstream
-		public static final int info = 0x7f0c00a9;
+		public static final int info = 0x7f0c00bf;
 		public static final int item_touch_helper_previous_elevation = 0x7f0c0005;
 		public static final int left = 0x7f0c0023;
-		public static final int line1 = 0x7f0c00a3;
-		public static final int line3 = 0x7f0c00a7;
+		public static final int line1 = 0x7f0c00b9;
+		public static final int line3 = 0x7f0c00bd;
 		public static final int listMode = 0x7f0c000c;
 		public static final int list_item = 0x7f0c0051;
-		public static final int media_actions = 0x7f0c00a1;
-		public static final int middle = 0x7f0c0032;
-		public static final int mini = 0x7f0c0030;
-		public static final int multiply = 0x7f0c0027;
-		public static final int navigation_header_container = 0x7f0c0098;
-=======
-		public static final int info = 0x7f0c00be;
-		public static final int item_touch_helper_previous_elevation = 0x7f0c0005;
-		public static final int left = 0x7f0c0023;
-		public static final int line1 = 0x7f0c00b8;
-		public static final int line3 = 0x7f0c00bc;
-		public static final int listMode = 0x7f0c000c;
-		public static final int list_item = 0x7f0c0051;
-		public static final int media_actions = 0x7f0c00b6;
+		public static final int media_actions = 0x7f0c00b7;
 		public static final int middle = 0x7f0c0032;
 		public static final int mini = 0x7f0c0030;
 		public static final int multiply = 0x7f0c0027;
 		public static final int navigation_header_container = 0x7f0c00ae;
->>>>>>> Stashed changes
 		public static final int never = 0x7f0c0042;
 		public static final int none = 0x7f0c0011;
 		public static final int normal = 0x7f0c000d;
@@ -714,13 +669,8 @@ public final class R {
 		public static final int showCustom = 0x7f0c0012;
 		public static final int showHome = 0x7f0c0013;
 		public static final int showTitle = 0x7f0c0014;
-<<<<<<< Updated upstream
-		public static final int snackbar_action = 0x7f0c0097;
-		public static final int snackbar_text = 0x7f0c0096;
-=======
 		public static final int snackbar_action = 0x7f0c00ad;
 		public static final int snackbar_text = 0x7f0c00ac;
->>>>>>> Stashed changes
 		public static final int snap = 0x7f0c001a;
 		public static final int spacer = 0x7f0c0055;
 		public static final int split_action_bar = 0x7f0c0009;
@@ -728,23 +678,13 @@ public final class R {
 		public static final int src_in = 0x7f0c002a;
 		public static final int src_over = 0x7f0c002b;
 		public static final int start = 0x7f0c0025;
-<<<<<<< Updated upstream
-		public static final int status_bar_latest_event_content = 0x7f0c00a0;
+		public static final int status_bar_latest_event_content = 0x7f0c00b6;
 		public static final int submit_area = 0x7f0c0075;
 		public static final int tabMode = 0x7f0c000e;
-		public static final int text = 0x7f0c00a8;
-		public static final int text2 = 0x7f0c00a6;
+		public static final int text = 0x7f0c00be;
+		public static final int text2 = 0x7f0c00bc;
 		public static final int textSpacerNoButtons = 0x7f0c005d;
-		public static final int time = 0x7f0c00a4;
-=======
-		public static final int status_bar_latest_event_content = 0x7f0c00b5;
-		public static final int submit_area = 0x7f0c0075;
-		public static final int tabMode = 0x7f0c000e;
-		public static final int text = 0x7f0c00bd;
-		public static final int text2 = 0x7f0c00bb;
-		public static final int textSpacerNoButtons = 0x7f0c005d;
-		public static final int time = 0x7f0c00b9;
->>>>>>> Stashed changes
+		public static final int time = 0x7f0c00ba;
 		public static final int title = 0x7f0c0053;
 		public static final int title_template = 0x7f0c0058;
 		public static final int top = 0x7f0c0026;

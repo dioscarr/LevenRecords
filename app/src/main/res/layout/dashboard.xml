@@ -6,7 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#2c2c2c"
-    android:contextClickable="false">
+    android:contextClickable="false"
+    tools:targetApi="m">
 
 
 
@@ -15,9 +16,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <include android:id="@+id/app_bar" layout="@layout/app_bar"
-            android:layout_width="match_parent"
-            android:layout_height="60dp" />
+        <include android:id="@+id/app_bar" layout="@layout/app_bar"/>
     </LinearLayout>
 
 
@@ -115,15 +114,10 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         app:menu="@menu/nav_menu"
-<<<<<<< Updated upstream
-        app:headerLayout="@layout/nav_header"
-        android:layout_gravity="start">
-=======
 
         android:layout_gravity="start"
         android:alpha=".7"
         android:background="#f3f3f3">
->>>>>>> Stashed changes
 
     </android.support.design.widget.NavigationView>
 

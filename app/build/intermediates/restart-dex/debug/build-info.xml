@@ -4,80 +4,30 @@
     api-level="23"
     density="560dpi"
     format="7"
-<<<<<<< Updated upstream
-    timestamp="20045278202118"
-    token="8610156536055378374" >
+    timestamp="23224626351116"
+    token="-6763294228718876890" >
 
     <task
         name="javac"
-        duration="0" />
-=======
-    timestamp="18878983089762"
-    token="-6763294228718876890"
-    verifier="R_CLASS_CHANGE" >
-
-    <task
-        name="javac"
-        duration="1384" />
->>>>>>> Stashed changes
+        duration="536" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="24" />
+        duration="344" />
     <task
         name="verifier"
-        duration="25" />
+        duration="28" />
 
     <artifact
-        location="/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/resources-debug.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-        type="DEX" />
+        location="/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
-<<<<<<< Updated upstream
-    <artifact
-        location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
-
-    <build timestamp="19716310304490" >
-=======
-    <build timestamp="18090454500455" >
->>>>>>> Stashed changes
+    <build timestamp="23224626351116" >
         <artifact
             location="/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-<<<<<<< Updated upstream
-    <build timestamp="20045278202118" >
-=======
-    <build
-        timestamp="18878983089762"
-        verifier="R_CLASS_CHANGE" >
->>>>>>> Stashed changes
-        <artifact
-            location="/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
-<<<<<<< Updated upstream
-=======
-        <artifact
-            location="/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/dionelrodriguez/AndroidStudioProjects/cbookingv2/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-            type="DEX" />
->>>>>>> Stashed changes
     </build>
 
 </instant-run>
