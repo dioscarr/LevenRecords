@@ -3,14 +3,14 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
-    android:background="#2c2c2c"
+    android:background="#010e12"
     android:contextClickable="false">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:background="#2C2C2C">
+        android:background="#010e12">
 
         <!--<include android:id="@+id/app_bar" layout="@layout/app_bar"/>-->
 
@@ -24,7 +24,7 @@
             android:id="@+id/imageView1"
             android:layout_gravity="center_horizontal"
             android:layout_weight="0.79"
-            android:textColor="#f2f2f2"
+            android:textColor="#fff"
             android:gravity="center_vertical|center_horizontal"
             android:textSize="52dp"
             android:typeface="normal"

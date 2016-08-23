@@ -2,10 +2,34 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@drawable/bkk2"
+    android:background="#010e12"
     android:gravity="center"
     android:orientation="vertical"
-    android:padding="10dp" >
+    android:padding="10dp"
+    android:weightSum="1">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.31" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:text="Register Using Your Email"
+        android:textSize="24sp"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="8dp"
+        android:layout_weight="0.20" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.29" />
 
     <LinearLayout
         android:layout_width="fill_parent"
@@ -13,7 +37,9 @@
         android:layout_gravity="center"
         android:orientation="vertical"
         android:paddingLeft="20dp"
-        android:paddingRight="20dp" >
+        android:paddingRight="20dp"
+        android:layout_weight="1.01"
+        android:weightSum="1">
 
         <EditText
             android:id="@+id/name"
@@ -56,6 +82,13 @@
 
         <!-- Login Button -->
 
+        <!-- Link to Login Screen -->
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.15" />
+
         <Button
             android:id="@+id/btnRegister"
             android:layout_width="fill_parent"
@@ -64,8 +97,6 @@
             android:background="@color/abc_search_url_text_selected"
             android:text="@string/btn_register"
             android:textColor="@color/white" />
-
-        <!-- Link to Login Screen -->
 
         <Button
             android:id="@+id/btnLinkToLoginScreen"
