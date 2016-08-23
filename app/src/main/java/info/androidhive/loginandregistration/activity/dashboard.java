@@ -14,6 +14,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 import android.widget.Toast;
 import info.androidhive.loginandregistration.helper.SQLiteHandler;
 import info.androidhive.loginandregistration.helper.SessionManager;
@@ -34,7 +35,7 @@ public class dashboard extends AppCompatActivity {
         setContentView(R.layout.dashboard);
         toolbar = (Toolbar) findViewById(R.id.app_bar); //Toolbar
         setSupportActionBar(toolbar); //Toolbar
-        getSupportActionBar().setTitle("DashBoard"); //Toolbar
+        getSupportActionBar().setTitle("dashboard"); //Toolbar
         getSupportActionBar().setSubtitle("SubTitle"); //Toolbar
         getSupportActionBar().setIcon(R.drawable.ic_action_name);//Toolbar
         View gotocalendar = (View)findViewById(R.id.goToCalendarId);
@@ -47,7 +48,7 @@ public class dashboard extends AppCompatActivity {
                // finish();
             }
         });
-        Button goToSessionsBooked = (Button) findViewById(R.id.btnGoToSeesionsBooked);
+        TextView goToSessionsBooked = (TextView) findViewById(R.id.btnGoToSeesionsBooked);
         goToSessionsBooked.setOnClickListener(new View.OnClickListener()
         {
             @Override

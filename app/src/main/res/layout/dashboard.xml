@@ -27,6 +27,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:gravity="center"
+        android:clipToPadding="false"
         >
 
 
@@ -36,7 +37,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
-            android:background="#2C2C2C"
+            android:background="@color/material_grey_300"
             android:layout_marginTop="60dp">
 
 
@@ -50,7 +51,7 @@
                 android:id="@+id/imageView1"
                 android:layout_gravity="center_horizontal"
                 android:layout_weight="0.79"
-                android:textColor="#f2f2f2"
+                android:textColor="@android:color/black"
                 android:gravity="center_vertical|center_horizontal"
                 android:textSize="52dp"
                 android:typeface="normal"
@@ -66,25 +67,31 @@
                 app:civ_border_width="4dp"
                 app:civ_border_color="#f2f2f2"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="40dp" />
+                android:layout_marginTop="40dp"/>
 
-            <Button
+
+
+
+            <TextView
                 android:layout_width="164dp"
                 android:layout_height="wrap_content"
                 android:text="Past Sessions"
                 android:id="@+id/btnGoToSeesionsBooked"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="60dp"
-                android:bottomRightRadius="10dp"
-                android:bottomLeftRadius="10dp"
-                android:topLeftRadius="10dp"
-                android:topRightRadius="10dp"
                 android:layout_marginBottom="10dp"
                 android:textSize="12sp"
                 android:theme="@style/Widget.AppCompat.Button.Borderless"
-                android:background="#f3f3f3"
+                android:background="@drawable/myrect"
                 android:backgroundTintMode="multiply"
-                android:elevation="8dp" />
+                android:elevation="4dp"
+                android:focusableInTouchMode="false"
+                android:ellipsize="start"
+                android:enabled="true"
+                android:clickable="true"
+                android:contextClickable="true" />
+
+
 
             <android.support.design.widget.FloatingActionButton
                 android:layout_width="wrap_content"
@@ -108,8 +115,15 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         app:menu="@menu/nav_menu"
+<<<<<<< Updated upstream
         app:headerLayout="@layout/nav_header"
         android:layout_gravity="start">
+=======
+
+        android:layout_gravity="start"
+        android:alpha=".7"
+        android:background="#f3f3f3">
+>>>>>>> Stashed changes
 
     </android.support.design.widget.NavigationView>
 
