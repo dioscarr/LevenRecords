@@ -6,6 +6,8 @@ package info.androidhive.loginandregistration.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.widget.DrawerLayout;
+import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
@@ -22,6 +24,7 @@ import info.androidhive.loginandregistration.R;
 public class dashboard extends AppCompatActivity {
 
     private Toolbar toolbar; //Toolbar
+    ActionBarDrawerToggle toggle;
     private SQLiteHandler db; //database
     private SessionManager session;//database
 
@@ -55,6 +58,15 @@ public class dashboard extends AppCompatActivity {
               //  finish();
             }
         });
+
+        //DrawerLayout
+//        DrawerLayout drawerLayout = (DrawerLayout) findViewById(R.id.drawerOnDashboardLayout);
+//        toggle = new ActionBarDrawerToggle(this, drawerLayout,R.string.Open,R.string.Close);
+//
+//        drawerLayout.setDrawerListener(toggle);
+//        toggle.syncState();
+//        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
         // SqLite database handler
         db = new SQLiteHandler(getApplicationContext());
 
@@ -94,6 +106,10 @@ public class dashboard extends AppCompatActivity {
                 logoutUser();
             break;
 
+        }
+        if(toggle.onOptionsItemSelected((item)))
+        {
+            return true;
         }
         return super.onContextItemSelected(item);
     }

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="250dp"
+    android:background="@color/accent_material_light"
+    android:gravity="bottom"
+    android:weightSum="1"
+    android:padding="25dp">
+
+    <include android:id="@+id/app_bar" layout="@layout/na_drawer_profile_image"
+        android:layout_width="415dp"
+        android:layout_height="230dp"
+        android:layout_gravity="top" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Hi! Alex"
+        android:textColor="@android:color/white"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:layout_gravity="bottom|right"
+        android:textSize="20sp"
+        android:textIsSelectable="true" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/changeProfileImage"
+        android:layout_gravity="top|left|center_horizontal"
+        android:clickable="true"
+        android:foreground="@drawable/ic_camara_change_profile_image"
+        android:background="@android:color/black"
+        android:foregroundTint="#f2f2f2"
+        android:nestedScrollingEnabled="false"
+        app:elevation="12dp"
+
+
+        android:foregroundGravity="center_vertical|center_horizontal"
+
+        android:focusableInTouchMode="false"
+        android:cropToPadding="false"
+        android:contextClickable="false"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="10dp" />
+
+</android.support.design.widget.CoordinatorLayout>

@@ -2,5 +2,13 @@
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_password.png",
+        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_password_settings.png",
+        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-mdpi\\ic_password_settings.png"
     }
 ]

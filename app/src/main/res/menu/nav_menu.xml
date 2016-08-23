@@ -2,10 +2,34 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
 
-    <item android:id="@+id/nav_menu_1" android:title="Option1"/>
-    <item android:id="@+id/nav_menu_2" android:title="Option2"/>
-    <item android:id="@+id/nav_menu_3" android:title="Option3"/>
 
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_first_fragment"
+                android:icon="@drawable/ic_drawermenuitemicon"
+                android:title="About Leven Records" />
+            <item
+                android:id="@+id/nav_second_fragment"
+                android:icon="@drawable/ic_drawermenuitemicon"
+                android:title="Location" />
+            <item
+                android:id="@+id/nav_third_fragment"
+                android:icon="@drawable/ic_drawermenuitemicon"
+                android:title="Contact Us" />
+        </group>
+
+    <item android:title="Sub items">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:icon="@drawable/ic_drawermenuitemicon"
+                    android:title="Sub item 1" />
+                <item
+                    android:icon="@drawable/ic_drawermenuitemicon"
+                    android:title="Sub item 2" />
+            </group>
+        </menu>
+    </item>
 
 
 

@@ -4,12 +4,12 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="4345597775166"
+    timestamp="20045278202118"
     token="8610156536055378374" >
 
     <task
         name="javac"
-        duration="606" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -20,27 +20,19 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="3774162231169" >
+    <artifact
+        location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="19716310304490" >
         <artifact
             location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="4292201215527"
-        verifier="R_CLASS_CHANGE" >
+    <build timestamp="20045278202118" >
         <artifact
             location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\res\resources-debug.ap_"
             type="RESOURCES" />
-        <artifact
-            location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
     </build>
-    <build timestamp="4345597775166" />
 
 </instant-run>
