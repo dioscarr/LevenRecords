@@ -14,12 +14,24 @@ import info.androidhive.loginandregistration.activity.sessionModel;
  * Created by dioscar on 8/21/2016.
  */
 public class BuckyDB extends SQLiteOpenHelper {
-
+//Booking
     private static final int DATABASE_VERSION = 1;
     private static final String DATABASE_NAME = "SessionsBooked.db";
     public static final String TABLE_SESSIONSBOOKED = "booked";
     public static final String COLUMN_ID = "_id";
     public static final String COLUMN_BOOKED_DATE = "bookedDate";
+
+    //User local information
+    public static final String TABLE_USER = "user";
+    public static final String COLUMN_USER_ID = "_id";
+    public static final String COLUMN_USER_EMAIL = "email";
+    public static final String COLUMN_USER_NAME = "name";
+    public static final String COLUMN_USER_NICKNAME = "nickname";
+    public static final String COLUMN_USER_PHONE = "phone";
+    public static final String COLUMN_USER_CREATED = "created";
+    public static final String COLUMN_USER_MODIFIED = "modified";
+    public static final String COLUMN_USER_ISDELETED = "isdelted";
+
 
     public BuckyDB(Context context, String name, SQLiteDatabase.CursorFactory factory, int version) {
         super(context, DATABASE_NAME, factory, DATABASE_VERSION);
@@ -74,12 +86,7 @@ public class BuckyDB extends SQLiteOpenHelper {
             // The Cursor is now set to the right position
             mArrayList.add(c.getString(c.getColumnIndex("bookedDate")));
         }
-//        c.moveToFirst();
-//        while(!c.isAfterLast())
-//            if ((c.getString(c.getColumnIndex("bookedDate")) != null)) {
-//                SessionsdbString += c.getString(c.getColumnIndex("bookedDate"));
-//                SessionsdbString += "\n";
-//            }
+
         db.close();
         return mArrayList;
     }
