@@ -7,7 +7,8 @@
     android:layout_height="match_parent"
     android:background="#2c2c2c"
     android:contextClickable="false"
-    tools:targetApi="m">
+    tools:targetApi="m"
+    >
 
 
 
@@ -111,10 +112,11 @@
 
     </android.support.v7.widget.LinearLayoutCompat>
     <android.support.design.widget.NavigationView
+        android:id="@+id/nav_drawer"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         app:menu="@menu/nav_menu"
-
+        app:headerLayout="@layout/nav_header"
         android:layout_gravity="start"
         android:alpha=".7"
         android:background="#f3f3f3">

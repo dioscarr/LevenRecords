@@ -8,33 +8,28 @@
     android:background="@color/accent_material_light"
     android:gravity="bottom"
     android:weightSum="1"
-    android:padding="25dp">
+    android:padding="25dp"
+    android:id="@+id/nav_headerid">
 
-    <include android:id="@+id/app_bar" layout="@layout/na_drawer_profile_image"
-        android:layout_width="415dp"
-        android:layout_height="230dp"
-        android:layout_gravity="top" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="40dp"
-        android:text="Hi! Alex"
-        android:textColor="@android:color/white"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-        android:layout_gravity="bottom|right"
-        android:textSize="20sp"
-        android:textIsSelectable="true" />
-
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/profile_imageNay"
+        android:layout_width="196dp"
+        android:layout_height="196dp"
+        android:src="@drawable/alex"
+        app:civ_border_width="4dp"
+        app:civ_border_color="#f2f2f2"
+        android:layout_gravity="center_horizontal" />
     <android.support.design.widget.FloatingActionButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/changeProfileImage"
+        android:id="@+id/btnchangeProfileImage"
         android:layout_gravity="top|left|center_horizontal"
         android:clickable="true"
         android:foreground="@drawable/ic_camara_change_profile_image"
         android:background="@android:color/black"
         android:foregroundTint="#f2f2f2"
-        android:nestedScrollingEnabled="false"
+        android:nestedScrollingEnabled="true"
         app:elevation="12dp"
 
 
