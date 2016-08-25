@@ -1,3 +1,180 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_35363fd26037846db946709734a7cde2e1b7ad26\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_e3fc594a3e8780396d279f55fb377cdf99da3bed\classes.dex" />
+    </item>
+    <item
+        jar="D:\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_24f3017b3f82f155f5c30ccae14d45104db2a97c\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e343f0ec8fb4992440ed70c77805be04cf6991ab\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_6fe4fca7fa11253a6e20737bd489a24b01734e4d\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\org.lucasr.dspec\dspec\0.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dab41681007f3d86a532a5d90295cc6feb9e258b">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.lucasr.dspec-dspec-0.1.1_1c054173df23bf9a6cd30f03f91f4f49979d0b08\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_9aff76ce9177f1004ef930eab07eb623c1df04b6\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.0_aa6cf81d8c7b1466bae9eb7c8dc02bb8b420fb68\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_eae652cf5e99141c6f941c248d5b26bd1f2d4484\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_7a771bfbe03f4a62108874cf3df4bb87a63f80ae\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_b3076a9110062429cfafa4f95ac2492de705d64a\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0a137f3a219d22b8f010c206af151e5f3a1a0ea1\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_b947a752e99e365b3e3ff15e319c5aa076cf1673\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_df4d8c1f3c0724131531b704e070dd6e0b90483f\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_cccec7e0f4acb06f6519c3cd764b824d77c97573\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.traex.rippleeffect-library-1.3_3a45050597c9ba02a492a6b827486b770e53b662\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1703e3d4be004b873c0764ccb5a0355786289bc0">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d72dff856fe4205727046c18a81993ddc169e977\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.prolificinteractive\material-calendarview\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="19f21aeff153921e11375e50183f30405d018477">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.prolificinteractive-material-calendarview-1.1.0_c6eff37b5975f8920b6e31c9cc932f22ca298f9f\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_76e6cf4654da72d5d5818b98de52140a52fc8a03\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_982b4c0beef31c61945d4fd1accfafb8e2767108\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_6f2a26c2064358ca89886484b69b0fc761456f1e\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_b52274b02e0e6ba79d08dd524262bace6ded9f47\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_6151b45f275836fbbdffd680edddd7c6983cd4a8\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9a6f320b469a340177ea32c0b289e80c76e2aae0">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8fbc4e81c45a6068f2ef8358e2bd01ffd9c6c5ab\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_99006fd7b1c6f6a7054a70e2438778c858462807\classes.dex" />
+    </item>
+
+</items>

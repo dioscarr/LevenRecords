@@ -1,14 +1,14 @@
 [
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_rawertemcon.png",
-        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-hdpi\\ic_rawertemcon.png"
+        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_person.png",
+        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecords\\app\\src\\main\\res\\mipmap-hdpi\\ic_person.png"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_person.png",
-        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-hdpi\\ic_person.png"
+        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecords\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
-        "source": "D:\\diosc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_rawertemcon.png",
+        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecords\\app\\src\\main\\res\\mipmap-hdpi\\ic_rawertemcon.png"
     }
 ]
