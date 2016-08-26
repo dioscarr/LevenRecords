@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
+    abi="x86"
     api-level="23"
-    density="xxhdpi"
+    density="420dpi"
     format="7"
-    timestamp="138533320866877"
-    token="9108579291283116311" >
+    timestamp="288819411381983"
+    token="8610156536055378374" >
 
     <task
         name="javac"
@@ -20,11 +20,19 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="138466464322709" >
+    <artifact
+        location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="288150050568771" >
         <artifact
-            location="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecords\app\build\outputs\apk\app-debug.apk"
+            location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="138533320866877" />
+    <build timestamp="288819411381983" >
+        <artifact
+            location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
 
 </instant-run>

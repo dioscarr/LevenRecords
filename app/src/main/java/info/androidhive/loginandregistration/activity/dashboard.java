@@ -56,7 +56,7 @@ public class dashboard extends AppCompatActivity
             public void onClick(View v)
             {
                 // Launching the calendar activity
-                Intent intent = new Intent(dashboard.this, my_recyclerview.class);
+                Intent intent = new Intent(dashboard.this, calendar.class);
                 startActivity(intent);
                // finish();
             }
