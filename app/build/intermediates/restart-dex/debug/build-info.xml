@@ -4,7 +4,7 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="288819411381983"
+    timestamp="294079548450446"
     token="8610156536055378374" >
 
     <task
@@ -15,24 +15,19 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="645" />
     <task
         name="verifier"
-        duration="0" />
+        duration="358" />
 
     <artifact
-        location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
+        location="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecordsv1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="288150050568771" >
+    <build timestamp="294079548450446" >
         <artifact
-            location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\outputs\apk\app-debug.apk"
+            location="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecordsv1\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="288819411381983" >
-        <artifact
-            location="D:\diosc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>
