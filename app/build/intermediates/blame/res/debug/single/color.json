@@ -1,78 +1,78 @@
 [
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/mcv_text_date_dark.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.prolificinteractive/material-calendarview/1.1.0/res/color/mcv_text_date_dark.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_tint_switch_track.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_spinner.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/mcv_text_date_light.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.prolificinteractive/material-calendarview/1.1.0/res/color/mcv_text_date_light.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\mcv_text_date_dark.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.prolificinteractive\\material-calendarview\\1.1.0\\res\\color\\mcv_text_date_dark.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\mcv_text_date_light.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.prolificinteractive\\material-calendarview\\1.1.0\\res\\color\\mcv_text_date_light.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_edittext.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_default.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_search_url_text.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecordsAppv1\\LevenRecordsv1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color/abc_tint_default.xml"
     }
 ]

@@ -1,33 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
+    abi="x86_64,x86"
     api-level="23"
-    density="420dpi"
+    density="560dpi"
     format="7"
-    timestamp="77241126342121"
-    token="-7529207022372153276" >
+    timestamp="451089569922720"
+    token="4844874524645711774" >
 
     <task
         name="javac"
-        duration="714" />
+        duration="955" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="337" />
+        duration="68" />
     <task
         name="verifier"
-        duration="158" />
+        duration="22" />
 
     <artifact
-        location="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecordsv1\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
 
-    <build timestamp="77241126342121" >
+    <build timestamp="450337221651435" >
         <artifact
-            location="D:\diosc\AndroidStudioProjects\LevenRecordsAppv1\LevenRecordsv1\app\build\outputs\apk\app-debug.apk"
+            location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="451089569922720" >
+        <artifact
+            location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/LevenRecords/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
