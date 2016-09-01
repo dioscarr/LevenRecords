@@ -4,50 +4,30 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="26041675104138"
-    token="-8853551829976324234"
-    verifier="COMPATIBLE" >
+    timestamp="94037270490864"
+    token="7478612373800097239" >
 
     <task
         name="javac"
-        duration="474" />
+        duration="870" />
     <task
         name="instant-run-dex"
-        duration="423" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="20" />
+        duration="580" />
     <task
         name="verifier"
-        duration="3" />
+        duration="225" />
 
     <artifact
-        location="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="20684752114372" >
+    <build timestamp="94037270490864" >
         <artifact
             location="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="25211118262216" >
-        <artifact
-            location="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="25981408827977"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\builds\debug\25981408827977\classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        timestamp="26041675104138"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

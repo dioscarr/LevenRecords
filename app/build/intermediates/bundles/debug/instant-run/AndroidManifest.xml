@@ -73,6 +73,7 @@
                 android:value=".activity.dashboard" />
         </activity>
         <activity android:name="info.androidhive.loginandregistration.activity.my_recyclerview" />
+        <activity android:name="info.androidhive.loginandregistration.activity.schedule" />
     </application>
 
 </manifest>

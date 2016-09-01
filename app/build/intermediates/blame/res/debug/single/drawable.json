@@ -100,12 +100,12 @@
         "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
         "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",

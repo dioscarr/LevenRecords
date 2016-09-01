@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:2:1-77:12
+ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:2:1-78:12
 	package
 		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:3:5-52
 		INJECTED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml
@@ -123,27 +123,27 @@ ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManif
 	android:name
 		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:13:5-81
+ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:13:22-78
+		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:12:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:14:5-75
+ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:13:5-75
 	android:name
-		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:14:22-72
+		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:13:22-72
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:15:5-80
+ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:14:5-80
 	android:name
-		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:15:22-77
+		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:14:22-77
 uses-permission#android.permission.READ_CALENDAR
-ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:16:5-72
+ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:15:5-72
 	android:name
-		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:16:22-69
+		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:15:22-69
 uses-permission#android.permission.WRITE_CALENDAR
-ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:17:5-73
+ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:16:5-73
 	android:name
-		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:17:22-70
+		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:16:22-70
 application
-ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:24:5-75:19
+ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:24:5-76:19
 MERGED from [com.prolificinteractive:material-calendarview:1.1.0] D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\exploded-aar\com.prolificinteractive\material-calendarview\1.1.0\AndroidManifest.xml:12:5-20
 MERGED from [com.android.support:support-v4:24.2.0] D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:24.2.0] D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
@@ -308,6 +308,10 @@ ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManif
 	android:name
 		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:69:19-52
 activity#info.androidhive.loginandregistration.activity.my_recyclerview
-ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:74:9-71
+ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:74:9-62
 	android:name
 		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:74:19-59
+activity#info.androidhive.loginandregistration.activity.schedule
+ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:75:9-64
+	android:name
+		ADDED from D:\diosc\AndroidStudioProjects\LevenRecords\app\src\main\AndroidManifest.xml:75:19-52
