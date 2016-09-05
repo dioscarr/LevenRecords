@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="21"
         android:targetSdkVersion="23" />
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -73,6 +73,7 @@
         </activity>
         <activity android:name="info.androidhive.loginandregistration.activity.my_recyclerview" />
         <activity android:name="info.androidhive.loginandregistration.activity.schedule" />
+        <activity android:name="info.androidhive.loginandregistration.activity.calendareventview" />
     </application>
 
 </manifest>

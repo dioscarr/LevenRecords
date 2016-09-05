@@ -72,7 +72,8 @@
                 android:value=".activity.dashboard" />
         </activity>
         <activity android:name=".activity.my_recyclerview" />
-        <activity android:name=".activity.schedule"></activity>
+        <activity android:name=".activity.schedule" />
+        <activity android:name=".activity.calendareventview"></activity>
     </application>
 
 </manifest>

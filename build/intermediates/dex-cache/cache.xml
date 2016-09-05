@@ -47,7 +47,7 @@
         jar="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="2ce6519772293c500ff2070a0e80ad2b4edc89ee">
+        sha1="655d94a16c80b1d6707d43a9d780e33e5e873300">
         <dex dex="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_21cb56a2b0187a603810865c989dc53f242d945c\classes.dex" />
     </item>
     <item
@@ -138,7 +138,7 @@
         jar="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="07ac43259e61b71a02f8df614a973becc23fdde4">
+        sha1="100339d648a505ecdbb4442da8987ecb9c3979cf">
         <dex dex="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8b351943dc67c7e62eeee659f2c9b8358c144713\classes.dex" />
     </item>
     <item
@@ -147,6 +147,13 @@
         revision="23.0.2"
         sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
         <dex dex="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_16cb3f2481294fafdf37d67c4b27222dc2a29bd9\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\exploded-aar\com.github.alamkanak\android-week-view\1.2.6\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="393eb85d65baa2c3702efdf699832498f8b51bf1">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.alamkanak-android-week-view-1.2.6_d07c7f4321a42195fabebeba55a77f7dc25aa970\classes.dex" />
     </item>
     <item
         jar="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
@@ -163,18 +170,18 @@
         <dex dex="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.prolificinteractive-material-calendarview-1.1.0_913371eedf48f24aba5c500a5585c285f24c8345\classes.dex" />
     </item>
     <item
-        jar="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_167e46da524fdfc65a7858ea8496b4580b50b4fe\classes.dex" />
-    </item>
-    <item
         jar="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\exploded-aar\org.lucasr.dspec\dspec\0.1.1\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="dab41681007f3d86a532a5d90295cc6feb9e258b">
         <dex dex="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.lucasr.dspec-dspec-0.1.1_881b36a6b948cc914bae604f0cdbaaf40a0994e0\classes.dex" />
+    </item>
+    <item
+        jar="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_167e46da524fdfc65a7858ea8496b4580b50b4fe\classes.dex" />
     </item>
 
 </items>

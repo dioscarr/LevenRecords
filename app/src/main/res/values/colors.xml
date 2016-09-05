@@ -14,5 +14,6 @@
     <color name="btn_login_bg">#eceef1</color>
     <color name="lbl_name">#ffffff</color>
     <color name="btn_logut_bg">#ff6861</color>
+    <color name="BookedColor">#2db8fe</color>
 
 </resources>

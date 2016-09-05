@@ -58,7 +58,7 @@ public class dashboard extends AppCompatActivity
                 // Launching the calendar activity
                 Intent intent = new Intent(dashboard.this, calendar.class);
                 startActivity(intent);
-               // finish();
+
             }
         });
         TextView goToSessionsBooked = (TextView) findViewById(R.id.btnGoToSeesionsBooked);
@@ -70,7 +70,7 @@ public class dashboard extends AppCompatActivity
                 // Launching the login settings
                 Intent intent = new Intent(dashboard.this, mysessions.class);
                 startActivity(intent);
-              //  finish();
+
             }
         });
 
@@ -148,7 +148,7 @@ public class dashboard extends AppCompatActivity
                     // Launching the login settings
                     Intent intent = new Intent(dashboard.this, settings.class);
                     startActivity(intent);
-                   // finish();
+
                     break;
                 case R.id.menu_2:
                     logoutUser();
