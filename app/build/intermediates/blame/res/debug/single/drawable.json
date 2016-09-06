@@ -8,6 +8,10 @@
         "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bufalo.png",
+        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\src\\main\\res\\drawable\\bufalo.png"
+    },
+    {
         "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
@@ -56,12 +60,12 @@
         "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_security_black_24dp.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\src\\main\\res\\drawable\\ic_security_black_24dp.xml"
-    },
-    {
         "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_security_black_24dp.xml",
+        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\src\\main\\res\\drawable\\ic_security_black_24dp.xml"
     },
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
@@ -140,6 +144,10 @@
         "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\src\\main\\res\\drawable\\myrect.xml"
     },
     {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_done_black_24dp.xml",
+        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\src\\main\\res\\drawable\\ic_done_black_24dp.xml"
+    },
+    {
         "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
@@ -150,6 +158,10 @@
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kalid.png",
+        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\src\\main\\res\\drawable\\kalid.png"
     },
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",

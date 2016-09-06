@@ -21,9 +21,13 @@ import android.view.View;
 import android.widget.CalendarView;
 import android.widget.Toast;
 
+import java.text.DateFormatSymbols;
+import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.Date;
 
 import info.androidhive.loginandregistration.Model.ScheduleModel;
+import info.androidhive.loginandregistration.Model.times;
 import info.androidhive.loginandregistration.R;
 import info.androidhive.loginandregistration.helper.BuckyDB;
 import info.androidhive.loginandregistration.helper.SQLiteHandler;
@@ -80,14 +84,29 @@ public class calendar extends AppCompatActivity {
         calendarView.setOnDateChangeListener(new CalendarView.OnDateChangeListener() {
             @Override
             public void onSelectedDayChange(CalendarView view, int year, int month, int dayOfMonth) {
+                Calendar calendar = Calendar.getInstance();
+                calendar.set(year, month, dayOfMonth);
+                int dayOfWeekint = calendar.get(Calendar.DAY_OF_WEEK);
+
+                String dayOfWeekSelected =getDay(dayOfWeekint);
+                String MonthSelected =getMonth(month);
                 int d = dayOfMonth;
                 int dmonth = month;
                 int dyear = year;
                 String DateBookedString = dmonth + 1 + "-" + d + "-" + dyear;
-                AddBoookeDate(DateBookedString, dyear, dmonth, d, 18, 30);
+                AddBoookeDate(DateBookedString, dyear, dmonth, d, 18, 30,dayOfWeekSelected,MonthSelected);
                 Toast.makeText(view.getContext(), dmonth + 1 + "-" + d + "-" + dyear, Toast.LENGTH_LONG).show();
             }
         });
+    }
+
+
+    public static String getMonth(int month) {
+        return new DateFormatSymbols().getMonths()[month-1];
+    }
+
+    public static String getDay(int day) {
+        return new DateFormatSymbols().getShortWeekdays()[day];
     }
 
 //    public void askForCalendarPermission() {
@@ -132,7 +151,7 @@ public class calendar extends AppCompatActivity {
         return super.onContextItemSelected(item);
     }
 
-    private void AddBoookeDate(final String DateBooked, int year, int month, int day, int hour, int minutes)
+    private void AddBoookeDate(final String DateBooked, int year, int month, int day, int hour, int minutes, String dayOfTheWeek, String strMonth)
     {
 
         // Launch login activity
@@ -140,7 +159,7 @@ public class calendar extends AppCompatActivity {
         String title = "Leven Record Session";
         String description = "Recording Vocals";
         String time_zone = "Leven's Studio";
-        ScheduleModel smObj = new ScheduleModel(0,year,month,day,hour,minutes,email, title,description,time_zone,"");
+        ScheduleModel smObj = new ScheduleModel(0,year,month,day,hour,minutes,email, title,description,time_zone,"",dayOfTheWeek,strMonth);
         Intent intent = new Intent(
                 calendar.this,
                 schedule.class);

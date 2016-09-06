@@ -188,12 +188,12 @@
         "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
-        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\src\\main\\res\\layout\\nav_header.xml"
-    },
-    {
         "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\src\\main\\res\\layout\\nav_header.xml"
     },
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
@@ -234,6 +234,10 @@
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mysessions_row.xml",
+        "source": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\src\\main\\res\\layout\\activity_mysessions_row.xml"
     },
     {
         "merged": "D:\\diosc\\AndroidStudioProjects\\LevenRecords\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",

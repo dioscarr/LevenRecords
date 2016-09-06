@@ -47,7 +47,7 @@
         jar="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="655d94a16c80b1d6707d43a9d780e33e5e873300">
+        sha1="f65c92359dabc3d37e4886fabf567cd066c7502a">
         <dex dex="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_21cb56a2b0187a603810865c989dc53f242d945c\classes.dex" />
     </item>
     <item
@@ -138,7 +138,7 @@
         jar="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="100339d648a505ecdbb4442da8987ecb9c3979cf">
+        sha1="fb60e0d4e6bec7d87fe71c4c3168c3a6728d0835">
         <dex dex="D:\diosc\AndroidStudioProjects\LevenRecords\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8b351943dc67c7e62eeee659f2c9b8358c144713\classes.dex" />
     </item>
     <item
